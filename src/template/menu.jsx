@@ -4,9 +4,9 @@ export default props => (
     <nav className="navbar navbar-inverse bg-inverse">
         <div className="container">
             <div className="navbar-header">
-                <div className="navbar-brand" href="#">
+                <a className="navbar-brand" href="#">
                     <i className="fa fa-calendar-check-o"></i> TodoApp
-                </div>
+                </a>
             </div>
 
             <div id="navbar" className="navbar-collapse collapse">
